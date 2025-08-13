@@ -54,5 +54,21 @@
   {
     "role": "assistant",
     "content": "While tracking spending is an important part of budgeting, the primary purpose of a budget is actually to manage your finances effectively, which includes tracking spending, saving for retirement, and avoiding debt. So, the correct answer is D) All of the above.\n\nWould you like to continue with another question?"
+  },
+  {
+    "role": "user",
+    "content": "Create a budget. Ask me for income and expenses."
+  },
+  {
+    "role": "assistant",
+    "content": "Please provide your total monthly income, and then list your expenses along with their amounts."
+  },
+  {
+    "role": "user",
+    "content": "Create a budget. Ask me for income and expenses."
+  },
+  {
+    "role": "assistant",
+    "content": "Please provide your total monthly income, and then list your expenses along with their amounts (e.g., rent, groceries, utilities)."
   }
 ]
